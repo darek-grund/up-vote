@@ -20,5 +20,8 @@
   "homepage": "https://github.com/water-studio/up-vote#readme",
   "devDependencies": {
     "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
   }
 }
